@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "mythsmonoliths",
+	"version": "${version}",
+	"name": "Myths and Monoliths",
+	"description": "A mod by Starglobe Studios! Adds new elemental mobs and related blocks, items, and even structures!",
+	"authors": [
+		"MarshMiloMoon", "ScarlettFrost", "SnowflakeBrave"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/myths-and-monoliths",
+		"sources": "https://github.com/MarshMiloMoon/myths-and-monoliths-fabric-1.21.1.git"
+	},
+	"license": "MIT",
+	"icon": "assets/mythsmonoliths/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.starglobe.mythsmonoliths.MythsAndMonoliths"
+		],
+		"fabric-datagen": [
+			"net.starglobe.mythsmonoliths.MythsAndMonolithsDataGenerator"
+		],
+		"client": [
+			"net.starglobe.mythsmonoliths.MythsAndMonolithsClient"
+		]
+	},
+	"mixins": [
+		"mythsmonoliths.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
