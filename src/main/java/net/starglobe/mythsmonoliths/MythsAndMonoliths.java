@@ -14,5 +14,6 @@ public class MythsAndMonoliths implements ModInitializer
 	public void onInitialize()
 	{
 
+
 	}
 }
