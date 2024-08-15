@@ -9,7 +9,7 @@
 	],
 	"contact": {
 		"homepage": "https://modrinth.com/mod/myths-and-monoliths",
-		"sources": "https://github.com/MarshMiloMoon/myths-and-monoliths-fabric-1.21.1.git"
+		"sources": "https://github.com/MarshMiloMoon/myths-and-monoliths-fabric-1.21.1"
 	},
 	"license": "MIT",
 	"icon": "assets/mythsmonoliths/icon.png",
