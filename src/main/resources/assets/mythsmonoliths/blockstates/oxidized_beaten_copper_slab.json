@@ -1,13 +1,13 @@
 {
   "variants": {
     "type=bottom": {
-      "model": "fancifulforest:block/oxidized_beaten_copper_slab"
+      "model": "mythsmonoliths:block/oxidized_beaten_copper_slab"
     },
     "type=double": {
-      "model": "fancifulforest:block/oxidized_beaten_copper_slab_double"
+      "model": "mythsmonoliths:block/oxidized_beaten_copper_slab_double"
     },
     "type=top": {
-      "model": "fancifulforest:block/oxidized_beaten_copper_slab_top"
+      "model": "mythsmonoliths:block/oxidized_beaten_copper_slab_top"
     }
   }
 }

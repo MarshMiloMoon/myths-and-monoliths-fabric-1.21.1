@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block/cube_column",
   "textures": {
-    "end": "fancifulforest:block/exposed_beaten_copper",
-    "side": "fancifulforest:block/exposed_beaten_copper_slab"
+    "end": "mythsmonoliths:block/exposed_beaten_copper",
+    "side": "mythsmonoliths:block/exposed_beaten_copper_slab"
   }
 }

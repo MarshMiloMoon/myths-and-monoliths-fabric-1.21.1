@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block/cube_column",
   "textures": {
-    "end": "fancifulforest:block/chiseled_red_nether_bricks_top",
-    "side": "fancifulforest:block/chiseled_red_nether_bricks"
+    "end": "mythsmonoliths:block/chiseled_red_nether_bricks_top",
+    "side": "mythsmonoliths:block/chiseled_red_nether_bricks"
   }
 }

@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "fancifulforest:block/oxidized_beaten_copper"
+    "all": "mythsmonoliths:block/oxidized_beaten_copper"
   }
 }

@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block/cube_column",
   "textures": {
-    "end": "fancifulforest:block/chiseled_basalt_top",
-    "side": "fancifulforest:block/chiseled_basalt"
+    "end": "mythsmonoliths:block/chiseled_basalt_top",
+    "side": "mythsmonoliths:block/chiseled_basalt"
   }
 }

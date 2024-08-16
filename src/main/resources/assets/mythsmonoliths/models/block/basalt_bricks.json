@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "fancifulforest:block/basalt_bricks"
+    "all": "mythsmonoliths:block/basalt_bricks"
   }
 }

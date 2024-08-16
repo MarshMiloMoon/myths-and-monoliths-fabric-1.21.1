@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "fancifulforest:block/smooth_beaten_copper"
+    "all": "mythsmonoliths:block/smooth_beaten_copper"
   }
 }

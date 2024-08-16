@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "fancifulforest:block/smooth_nether_bricks"
+    "all": "mythsmonoliths:block/smooth_nether_bricks"
   }
 }
