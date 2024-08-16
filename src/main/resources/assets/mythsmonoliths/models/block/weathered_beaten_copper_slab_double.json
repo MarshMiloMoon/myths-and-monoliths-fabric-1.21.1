@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "fancifulforest:block/weathered_beaten_copper",
+    "side": "fancifulforest:block/weathered_beaten_copper_slab"
+  }
+}

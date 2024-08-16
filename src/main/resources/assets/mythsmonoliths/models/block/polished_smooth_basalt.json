@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fancifulforest:block/polished_smooth_basalt"
+  }
+}
