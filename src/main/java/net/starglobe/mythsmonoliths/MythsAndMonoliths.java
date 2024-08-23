@@ -3,6 +3,8 @@ package net.starglobe.mythsmonoliths;
 import net.fabricmc.api.ModInitializer;
 
 import net.starglobe.mythsmonoliths.block.ModBlocks;
+import net.starglobe.mythsmonoliths.item.ModItems;
+import net.starglobe.mythsmonoliths.sound.ModSounds;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -15,5 +17,7 @@ public class MythsAndMonoliths implements ModInitializer
 	public void onInitialize()
 	{
 		ModBlocks.registerModBlocks();
+		ModItems.registerModItems();
+		ModSounds.registerSounds();
 	}
 }

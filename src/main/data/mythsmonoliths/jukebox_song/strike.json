@@ -1,0 +1,8 @@
+{
+  "comparator_output": 12,
+  "description": {
+    "translate": "jukebox_song.mythsmonoliths.strike"
+  },
+  "length_in_seconds": 155.0,
+  "sound_event": "mythsmonoliths:sounds.strike"
+}

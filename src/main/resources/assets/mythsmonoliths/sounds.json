@@ -1,0 +1,10 @@
+{
+  "strike_disc": {
+    "sounds": [
+      {
+        "name": "mythsmonoliths:strike",
+        "stream": true
+      }
+    ]
+  }
+}

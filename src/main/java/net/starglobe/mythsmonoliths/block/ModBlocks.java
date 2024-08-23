@@ -87,7 +87,7 @@ public class ModBlocks
     public static final Block WAXED_OXIDIZED_SMOOTH_BEATEN_COPPER = registerBlock("waxed_oxidized_smooth_beaten_copper",
             new Block(AbstractBlock.Settings.copy(Blocks.COPPER_BLOCK)));
 
-    //the functional redstone blocks, need to go through and see what/how to fix the custom blocks and block entities
+    //the functional blocks, need to go through and see what/how to fix the custom blocks and block entities
     /*public static final Block CHOMPER = registerBlock("chomper",
             new ChomperBlock(AbstractBlock.Settings.copy(Blocks.COPPER_BLOCK)));
     public static final Block GUSTER = registerBlock("guster",
