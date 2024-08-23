@@ -38,5 +38,6 @@
   "block.mythsmonoliths.waxed_oxidized_smooth_beaten_copper": "Waxed Oxidized Smooth Beaten Copper",
 
   "item.mythsmonoliths.music_disc_strike": "Strike Music Disc",
-  "item.mythsmonoliths.music_disc_strike.desc": "MirageVision - Strike"
+  "item.mythsmonoliths.music_disc_strike.desc": "MirageVision - Strike",
+  "jukebox_song.mythsmonoliths.strike": "MirageVision - Strike"
 }

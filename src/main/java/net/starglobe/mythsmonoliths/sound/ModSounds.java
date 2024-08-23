@@ -14,11 +14,11 @@ public class ModSounds
     public static RegistryKey<JukeboxSong> STRIKE = RegistryKey.of(RegistryKeys.JUKEBOX_SONG,
             Identifier.of(MythsAndMonoliths.MOD_ID, "strike"));
 
-    public static SoundEvent registerSoundEvent(String name)
+    /*public static SoundEvent registerSoundEvent(String name)
     {
         Identifier id = Identifier.of(MythsAndMonoliths.MOD_ID, name);
         return Registry.register(Registries.SOUND_EVENT, id, SoundEvent.of(id));
-    }
+    }*/
 
     public static void registerSounds()
     {
