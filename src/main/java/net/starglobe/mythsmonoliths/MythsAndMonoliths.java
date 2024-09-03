@@ -4,7 +4,8 @@ import net.fabricmc.api.ModInitializer;
 
 import net.starglobe.mythsmonoliths.block.ModBlocks;
 import net.starglobe.mythsmonoliths.item.ModItems;
-import net.starglobe.mythsmonoliths.sound.ModSounds;
+import net.starglobe.mythsmonoliths.sound.ModJukeboxSongs;
+import net.starglobe.mythsmonoliths.sound.ModSoundEvents;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -18,6 +19,7 @@ public class MythsAndMonoliths implements ModInitializer
 	{
 		ModBlocks.registerModBlocks();
 		ModItems.registerModItems();
-		ModSounds.registerSounds();
+		ModJukeboxSongs.registerModJukeboxSongs();
+		ModSoundEvents.registerModSoundEvents();
 	}
 }

@@ -1,8 +1,8 @@
 {
-  "music_disc.strike": {
+  "music_disc_strike": {
     "sounds": [
       {
-        "name": "mythsmonoliths:strike",
+        "name": "mythsmonoliths:records/strike",
         "stream": true
       }
     ]

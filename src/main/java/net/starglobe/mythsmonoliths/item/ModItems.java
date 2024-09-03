@@ -8,7 +8,7 @@ import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.Rarity;
 import net.starglobe.mythsmonoliths.MythsAndMonoliths;
-import net.starglobe.mythsmonoliths.sound.ModSounds;
+import net.starglobe.mythsmonoliths.sound.ModJukeboxSongs;
 
 public class ModItems
 {
@@ -27,7 +27,7 @@ public class ModItems
     public static Item GRAPPLING_HOOK = registerItem("grappling_hook", new Item(new Item.Settings()));
 
     public static Item MUSIC_DISC_STRIKE = registerItem("music_disc_strike",
-            new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModSounds.STRIKE)));
+            new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.STRIKE)));
 
     public static Item registerItem(String name, Item item)
     {
