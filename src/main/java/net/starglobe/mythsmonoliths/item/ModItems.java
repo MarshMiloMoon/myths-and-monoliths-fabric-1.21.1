@@ -3,6 +3,7 @@ package net.starglobe.mythsmonoliths.item;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroups;
+import net.minecraft.item.Items;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
@@ -39,8 +40,10 @@ public class ModItems
         MythsAndMonoliths.LOGGER.info("Registering Mod Items for " + MythsAndMonoliths.MOD_ID);
 
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(entries -> {
-            //put them in the creative inventory tabs
+            entries.add(Items.FIRE_CHARGE);
+
             entries.add(BREEZE_DUST);
+            entries.add(Items.WIND_CHARGE);
 
             entries.add(BRINE_ROD);
             entries.add(BRINE_FOAM);
@@ -49,12 +52,21 @@ public class ModItems
             entries.add(BOULDER_ROD);
             entries.add(BOULDER_GRAIN);
             entries.add(EARTH_CHARGE);
+        });
 
-            entries.add(GAUNTLET);
-            entries.add(ANCHOR);
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(entries -> {
+            entries.add(WATER_CHARGE);
+            entries.add(EARTH_CHARGE);
             entries.add(GRAPPLING_HOOK);
-
             entries.add(MUSIC_DISC_STRIKE);
+        });
+
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(entries -> {
+            entries.add(ANCHOR);
+            entries.add(GAUNTLET);
+            entries.add(Items.FIRE_CHARGE);
+            entries.add(WATER_CHARGE);
+            entries.add(EARTH_CHARGE);
         });
     }
 }

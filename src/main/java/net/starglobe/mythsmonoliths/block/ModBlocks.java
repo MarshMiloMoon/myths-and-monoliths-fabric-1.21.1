@@ -88,7 +88,7 @@ public class ModBlocks
             new Block(AbstractBlock.Settings.copy(Blocks.COPPER_BLOCK)));
 
     //the functional blocks, need to go through and see what/how to fix the custom blocks and block entities
-    /*public static final Block CHOMPER = registerBlock("chomper",
+    /* public static final Block CHOMPER = registerBlock("chomper",
             new ChomperBlock(AbstractBlock.Settings.copy(Blocks.COPPER_BLOCK)));
     public static final Block GUSTER = registerBlock("guster",
             new GusterBlock(AbstractBlock.Settings.copy(Blocks.TUFF))); */

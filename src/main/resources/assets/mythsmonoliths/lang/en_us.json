@@ -39,5 +39,19 @@
 
   "item.mythsmonoliths.music_disc_strike": "Music Disc",
   "item.mythsmonoliths.music_disc_strike.desc": "MRGVSN - Strike",
-  "jukebox_song.mythsmonoliths.strike": "MRGVSN - Strike"
+  "jukebox_song.mythsmonoliths.strike": "MRGVSN - Strike",
+
+  "item.mythsmonoliths.breeze_dust": "Breeze Dust",
+
+  "item.mythsmonoliths.brine_rod": "Brine Rod",
+  "item.mythsmonoliths.brine_foam": "Brine Foam",
+  "item.mythsmonoliths.water_charge": "Water Charge",
+
+  "item.mythsmonoliths.boulder_rod": "Boulder Rod",
+  "item.mythsmonoliths.boulder_grain": "Boulder Grain",
+  "item.mythsmonoliths.earth_charge": "Earth Charge",
+
+  "item.mythsmonoliths.gauntlet": "Gauntlet",
+  "item.mythsmonoliths.anchor": "Anchor",
+  "item.mythsmonoliths.grappling_hook": "Grappling Hook"
 }
