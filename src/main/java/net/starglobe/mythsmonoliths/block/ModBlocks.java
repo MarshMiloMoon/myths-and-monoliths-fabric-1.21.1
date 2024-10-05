@@ -1,10 +1,7 @@
 package net.starglobe.mythsmonoliths.block;
 
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
-import net.minecraft.block.AbstractBlock;
-import net.minecraft.block.Block;
-import net.minecraft.block.Blocks;
-import net.minecraft.block.SlabBlock;
+import net.minecraft.block.*;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroups;
@@ -15,6 +12,12 @@ import net.starglobe.mythsmonoliths.MythsAndMonoliths;
 
 public class ModBlocks
 {
+    public static final Block CALCITE_SLAB = registerBlock("calcite_slab",
+            new SlabBlock(AbstractBlock.Settings.copy(Blocks.CALCITE)));
+    public static final Block CALCITE_STAIRS = registerBlock("calcite_stairs",
+            new StairsBlock();
+    public static final Block CALCITE_WALL = registerBlock("calcite_wall",
+            new WallBlock(AbstractBlock.Settings.copy(Blocks.CALCITE)));
     public static final Block POLISHED_CALCITE = registerBlock("polished_calcite",
             new Block(AbstractBlock.Settings.copy(Blocks.CALCITE)));
     public static final Block CALCITE_BRICKS = registerBlock("calcite_bricks",
@@ -24,6 +27,8 @@ public class ModBlocks
     public static final Block CHISELED_CALCITE_BRICKS = registerBlock("chiseled_calcite_bricks",
             new Block(AbstractBlock.Settings.copy(Blocks.CALCITE)));
 
+    public static final Block SMOOTH_BASALT_SLAB = registerBlock("smooth_basalt_slab",
+            new SlabBlock(AbstractBlock.Settings.copy(Blocks.SMOOTH_BASALT)));
     public static final Block POLISHED_SMOOTH_BASALT = registerBlock("polished_smooth_basalt",
             new Block(AbstractBlock.Settings.copy(Blocks.SMOOTH_BASALT)));
     public static final Block BASALT_BRICKS = registerBlock("basalt_bricks",

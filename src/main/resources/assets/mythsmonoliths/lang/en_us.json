@@ -1,9 +1,11 @@
 {
+  "block.mythsmonoliths.calcite_slab": "Calcite Slab",
   "block.mythsmonoliths.polished_calcite": "Polished Calcite",
   "block.mythsmonoliths.calcite_bricks": "Calcite Bricks",
   "block.mythsmonoliths.chiseled_calcite": "Chiseled Calcite",
   "block.mythsmonoliths.chiseled_calcite_bricks": "Chiseled Calcite Bricks",
 
+  "block.mythsmonoliths.smooth_basalt_slab": "Smooth Basalt Slab",
   "block.mythsmonoliths.polished_smooth_basalt": "Polished Smooth Basalt",
   "block.mythsmonoliths.basalt_bricks": "Basalt Bricks",
   "block.mythsmonoliths.chiseled_basalt": "Chiseled Basalt",
