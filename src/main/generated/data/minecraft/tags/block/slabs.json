@@ -1,0 +1,18 @@
+{
+  "values": [
+    "mythsmonoliths:calcite_slab",
+    "mythsmonoliths:calcite_brick_slab",
+    "mythsmonoliths:smooth_basalt_slab",
+    "mythsmonoliths:basalt_brick_slab",
+    "mythsmonoliths:smooth_nether_brick_slab",
+    "mythsmonoliths:smooth_nether_brick_slab",
+    "mythsmonoliths:beaten_copper_slab",
+    "mythsmonoliths:exposed_beaten_copper_slab",
+    "mythsmonoliths:weathered_beaten_copper_slab",
+    "mythsmonoliths:oxidized_beaten_copper_slab",
+    "mythsmonoliths:waxed_beaten_copper_slab",
+    "mythsmonoliths:waxed_exposed_beaten_copper_slab",
+    "mythsmonoliths:waxed_weathered_beaten_copper_slab",
+    "mythsmonoliths:waxed_oxidized_beaten_copper_slab"
+  ]
+}

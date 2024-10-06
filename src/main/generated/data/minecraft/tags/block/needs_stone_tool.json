@@ -1,0 +1,28 @@
+{
+  "values": [
+    "mythsmonoliths:beaten_copper",
+    "mythsmonoliths:beaten_copper_slab",
+    "mythsmonoliths:smooth_beaten_copper",
+    "mythsmonoliths:exposed_beaten_copper",
+    "mythsmonoliths:exposed_beaten_copper_slab",
+    "mythsmonoliths:exposed_smooth_beaten_copper",
+    "mythsmonoliths:weathered_beaten_copper",
+    "mythsmonoliths:weathered_beaten_copper_slab",
+    "mythsmonoliths:weathered_smooth_beaten_copper",
+    "mythsmonoliths:oxidized_beaten_copper",
+    "mythsmonoliths:oxidized_beaten_copper_slab",
+    "mythsmonoliths:oxidized_smooth_beaten_copper",
+    "mythsmonoliths:waxed_beaten_copper",
+    "mythsmonoliths:waxed_beaten_copper_slab",
+    "mythsmonoliths:waxed_smooth_beaten_copper",
+    "mythsmonoliths:waxed_exposed_beaten_copper",
+    "mythsmonoliths:waxed_exposed_beaten_copper_slab",
+    "mythsmonoliths:waxed_exposed_smooth_beaten_copper",
+    "mythsmonoliths:waxed_weathered_beaten_copper",
+    "mythsmonoliths:waxed_weathered_beaten_copper_slab",
+    "mythsmonoliths:waxed_weathered_smooth_beaten_copper",
+    "mythsmonoliths:waxed_oxidized_beaten_copper",
+    "mythsmonoliths:waxed_oxidized_beaten_copper_slab",
+    "mythsmonoliths:waxed_oxidized_smooth_beaten_copper"
+  ]
+}
