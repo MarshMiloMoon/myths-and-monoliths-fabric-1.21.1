@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "mythsmonoliths:block/smooth_nether_bricks",
+    "side": "mythsmonoliths:block/smooth_nether_bricks",
+    "top": "mythsmonoliths:block/smooth_nether_bricks"
+  }
+}
