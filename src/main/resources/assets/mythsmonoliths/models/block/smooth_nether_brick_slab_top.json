@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "mythsmonoliths:block/smooth_nether_bricks",
+    "side": "mythsmonoliths:block/smooth_nether_bricks",
+    "top": "mythsmonoliths:block/smooth_nether_bricks"
+  }
+}

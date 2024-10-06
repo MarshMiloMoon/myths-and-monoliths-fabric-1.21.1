@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mythsmonoliths:block/smooth_nether_brick_slab"
+    },
+    "type=double": {
+      "model": "mythsmonoliths:block/smooth_nether_bricks"
+    },
+    "type=top": {
+      "model": "mythsmonoliths:block/smooth_nether_brick_slab_top"
+    }
+  }
+}
