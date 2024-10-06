@@ -47,7 +47,7 @@ public class ModBlocks
             new SlabBlock(AbstractBlock.Settings.copy(Blocks.SMOOTH_BASALT)));
     public static final Block BASALT_BRICK_STAIRS = registerBlock("basalt_brick_stairs",
             new StairsBlock(Blocks.SMOOTH_BASALT.getDefaultState(), AbstractBlock.Settings.copy(Blocks.SMOOTH_BASALT)));
-    public static final Block BASALT__BRICK_WALL = registerBlock("basalt_brick_wall",
+    public static final Block BASALT_BRICK_WALL = registerBlock("basalt_brick_wall",
             new WallBlock(AbstractBlock.Settings.copy(Blocks.SMOOTH_BASALT)));
     public static final Block CHISELED_BASALT = registerBlock("chiseled_basalt",
             new Block(AbstractBlock.Settings.copy(Blocks.SMOOTH_BASALT)));
@@ -162,7 +162,7 @@ public class ModBlocks
             entries.add(BASALT_BRICKS);
             entries.add(BASALT_BRICK_SLAB);
             entries.add(BASALT_BRICK_STAIRS);
-            entries.add(BASALT__BRICK_WALL);
+            entries.add(BASALT_BRICK_WALL);
             entries.add(CHISELED_BASALT);
             entries.add(SMOOTH_NETHER_BRICKS);
             entries.add(SMOOTH_NETHER_BRICK_SLAB);

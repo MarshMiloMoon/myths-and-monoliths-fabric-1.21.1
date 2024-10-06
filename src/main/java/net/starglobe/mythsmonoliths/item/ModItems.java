@@ -25,7 +25,7 @@ public class ModItems
 
     public static Item GAUNTLET = registerItem("gauntlet", new Item(new Item.Settings()));
     public static Item ANCHOR = registerItem("anchor", new Item(new Item.Settings()));
-    public static Item GRAPPLING_HOOK = registerItem("grappling_hook", new Item(new Item.Settings()));
+    public static Item GRAPPLE = registerItem("grapple", new Item(new Item.Settings()));
 
     public static Item MUSIC_DISC_STRIKE = registerItem("music_disc_strike",
             new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.STRIKE)));
@@ -57,7 +57,7 @@ public class ModItems
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(entries -> {
             entries.add(WATER_CHARGE);
             entries.add(EARTH_CHARGE);
-            entries.add(GRAPPLING_HOOK);
+            entries.add(GRAPPLE);
             entries.add(MUSIC_DISC_STRIKE);
         });
 
