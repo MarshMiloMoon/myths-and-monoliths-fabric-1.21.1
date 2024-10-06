@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "mythsmonoliths:block/polished_calcite"
+  }
+}

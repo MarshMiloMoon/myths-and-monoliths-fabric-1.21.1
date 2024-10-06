@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "mythsmonoliths:block/weathered_beaten_copper"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mythsmonoliths:item/music_disc_strike"
+  }
+}

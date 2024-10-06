@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mythsmonoliths:block/smooth_basalt_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/smooth_basalt"
+    },
+    "type=top": {
+      "model": "mythsmonoliths:block/smooth_basalt_slab_top"
+    }
+  }
+}
