@@ -62,11 +62,11 @@ public class ModBlocks
             new WallBlock(AbstractBlock.Settings.copy(Blocks.NETHER_BRICKS)));
     public static final Block SMOOTH_RED_NETHER_BRICKS = registerBlock("smooth_red_nether_bricks",
             new Block(AbstractBlock.Settings.copy(Blocks.RED_NETHER_BRICKS)));
-    public static final Block SMOOTH_RED_NETHER_BRICK_SLAB = registerBlock("smooth_nether_brick_slab",
+    public static final Block SMOOTH_RED_NETHER_BRICK_SLAB = registerBlock("smooth_red_nether_brick_slab",
             new SlabBlock(AbstractBlock.Settings.copy(Blocks.RED_NETHER_BRICKS)));
-    public static final Block SMOOTH_RED_NETHER_BRICK_STAIRS = registerBlock("smooth_nether_brick_stairs",
+    public static final Block SMOOTH_RED_NETHER_BRICK_STAIRS = registerBlock("smooth_red_nether_brick_stairs",
             new StairsBlock(Blocks.RED_NETHER_BRICKS.getDefaultState(), AbstractBlock.Settings.copy(Blocks.RED_NETHER_BRICKS)));
-    public static final Block SMOOTH_RED_NETHER_BRICK_WALL = registerBlock("smooth_nether_brick_wall",
+    public static final Block SMOOTH_RED_NETHER_BRICK_WALL = registerBlock("smooth_red_nether_brick_wall",
             new WallBlock(AbstractBlock.Settings.copy(Blocks.RED_NETHER_BRICKS)));
     public static final Block CHISELED_RED_NETHER_BRICKS = registerBlock("chiseled_red_nether_bricks",
             new Block(AbstractBlock.Settings.copy(Blocks.RED_NETHER_BRICKS)));

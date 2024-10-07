@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "mythsmonoliths:item/grappling_hook"
+    "layer0": "mythsmonoliths:item/grapple"
   }
 }
