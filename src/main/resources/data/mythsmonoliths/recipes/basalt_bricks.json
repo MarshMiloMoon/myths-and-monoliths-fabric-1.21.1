@@ -3,7 +3,7 @@
   "category": "building",
   "key": {
     "#": {
-      "item": "minecraft:smooth_basalt"
+      "item": "mythsmonoliths:polished_smooth_basalt"
     }
   },
   "pattern": [
@@ -12,6 +12,6 @@
   ],
   "result": {
     "count": 4,
-    "id": "mythsmonoliths:polished_smooth_basalt"
+    "id": "mythsmonoliths:basalt_bricks"
   }
 }

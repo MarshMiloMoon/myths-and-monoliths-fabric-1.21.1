@@ -3,15 +3,15 @@
   "category": "building",
   "key": {
     "#": {
-      "item": "minecraft:smooth_basalt"
+      "item": "minecraft:red_nether_brick_slab"
     }
   },
   "pattern": [
-    "##",
-    "##"
+    "#",
+    "#"
   ],
   "result": {
-    "count": 4,
-    "id": "mythsmonoliths:polished_smooth_basalt"
+    "count": 1,
+    "id": "mythsmonoliths:chiseled_red_nether_bricks"
   }
 }

@@ -7,11 +7,10 @@
     }
   },
   "pattern": [
-    "##",
-    "##"
+    "###"
   ],
   "result": {
-    "count": 4,
-    "id": "mythsmonoliths:polished_smooth_basalt"
+    "count": 6,
+    "id": "mythsmonoliths:smooth_basalt_slab"
   }
 }

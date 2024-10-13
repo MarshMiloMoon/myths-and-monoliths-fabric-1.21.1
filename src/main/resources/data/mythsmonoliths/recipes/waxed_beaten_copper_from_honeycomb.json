@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "waxed_beaten_copper",
+  "ingredients": [
+    {
+      "item": "mythsmonoliths:beaten_copper"
+    },
+    {
+      "item": "minecraft:honeycomb"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "mythsmonoliths:waxed_beaten_copper"
+  }
+}

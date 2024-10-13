@@ -1,17 +1,19 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "building",
+  "group": "wooden_stairs",
   "key": {
     "#": {
-      "item": "minecraft:smooth_basalt"
+      "item": "mythsmonoliths:basalt_bricks"
     }
   },
   "pattern": [
-    "##",
-    "##"
+    "#  ",
+    "## ",
+    "###"
   ],
   "result": {
     "count": 4,
-    "id": "mythsmonoliths:polished_smooth_basalt"
+    "id": "mythsmonoliths:basalt_brick_stairs"
   }
 }

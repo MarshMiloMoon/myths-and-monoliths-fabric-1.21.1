@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "mythsmonoliths:smooth_nether_bricks"
+  },
+  "result": {
+    "count": 1,
+    "id": "mythsmonoliths:smooth_nether_brick_stairs"
+  }
+}

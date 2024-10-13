@@ -3,15 +3,15 @@
   "category": "building",
   "key": {
     "#": {
-      "item": "minecraft:smooth_basalt"
+      "item": "mythsmonoliths:calcite_slab"
     }
   },
   "pattern": [
-    "##",
-    "##"
+    "#",
+    "#"
   ],
   "result": {
-    "count": 4,
-    "id": "mythsmonoliths:polished_smooth_basalt"
+    "count": 1,
+    "id": "mythsmonoliths:chiseled_calcite"
   }
 }
