@@ -20,6 +20,12 @@ public class ModBlocks
             new WallBlock(AbstractBlock.Settings.copy(Blocks.CALCITE)));
     public static final Block POLISHED_CALCITE = registerBlock("polished_calcite",
             new Block(AbstractBlock.Settings.copy(Blocks.CALCITE)));
+    public static final Block POLISHED_CALCITE_SLAB = registerBlock("polished_calcite_slab",
+            new SlabBlock(AbstractBlock.Settings.copy(Blocks.CALCITE)));
+    public static final Block POLISHED_CALCITE_STAIRS = registerBlock("polished_calcite_stairs",
+            new StairsBlock(Blocks.CALCITE.getDefaultState(), AbstractBlock.Settings.copy(Blocks.CALCITE)));
+    public static final Block POLISHED_CALCITE_WALL = registerBlock("polished_calcite_wall",
+            new WallBlock(AbstractBlock.Settings.copy(Blocks.CALCITE)));
     public static final Block CALCITE_BRICKS = registerBlock("calcite_bricks",
             new Block(AbstractBlock.Settings.copy(Blocks.CALCITE)));
     public static final Block CALCITE_BRICK_SLAB = registerBlock("calcite_brick_slab",
@@ -41,6 +47,12 @@ public class ModBlocks
             new WallBlock(AbstractBlock.Settings.copy(Blocks.SMOOTH_BASALT)));
     public static final Block POLISHED_SMOOTH_BASALT = registerBlock("polished_smooth_basalt",
             new Block(AbstractBlock.Settings.copy(Blocks.SMOOTH_BASALT)));
+    public static final Block POLISHED_SMOOTH_BASALT_SLAB = registerBlock("polished_smooth_basalt_slab",
+            new SlabBlock(AbstractBlock.Settings.copy(Blocks.SMOOTH_BASALT)));
+    public static final Block POLISHED_SMOOTH_BASALT_STAIRS = registerBlock("polished_smooth_basalt_stairs",
+            new StairsBlock(Blocks.SMOOTH_BASALT.getDefaultState(), AbstractBlock.Settings.copy(Blocks.SMOOTH_BASALT)));
+    public static final Block POLISHED_SMOOTH_BASALT_WALL = registerBlock("polished_smooth_basalt_wall",
+            new WallBlock(AbstractBlock.Settings.copy(Blocks.SMOOTH_BASALT)));
     public static final Block BASALT_BRICKS = registerBlock("basalt_bricks",
             new Block(AbstractBlock.Settings.copy(Blocks.SMOOTH_BASALT)));
     public static final Block BASALT_BRICK_SLAB = registerBlock("basalt_brick_slab",

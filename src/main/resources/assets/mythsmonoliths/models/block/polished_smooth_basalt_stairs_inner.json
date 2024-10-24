@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "mythsmonoliths:block/polished_smooth_basalt",
+    "side": "mythsmonoliths:block/polished_smooth_basalt",
+    "top": "mythsmonoliths:block/polished_smooth_basalt"
+  }
+}

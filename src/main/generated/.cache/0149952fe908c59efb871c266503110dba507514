@@ -1,7 +1,7 @@
-// 1.21.1	2024-10-09T01:13:22.3563976	Myths and Monoliths/Tags for minecraft:block
+// 1.21.1	2024-10-24T12:37:20.4064647	Myths and Monoliths/Tags for minecraft:block
 5b3984f52aad23b2c68b1758f898bd1476d124ec data\minecraft\tags\block\slabs.json
 1d9cc2e6cbcd859d6f8f13c046687f3286b41a66 data\minecraft\tags\block\needs_stone_tool.json
-8761b081628031efbcda58a3ffedb6712538f59a data\minecraft\tags\block\mineable\pickaxe.json
+df8d3552691ca348624a2adee5ce94dedf38d99b data\minecraft\tags\block\mineable\pickaxe.json
 c74a0a9c60677c66922077c35cd71fb06a9e221b data\minecraft\tags\block\walls.json
 dc17581f31a052ad84235a16fefd3e74e1e32e8b data\minecraft\tags\block\stairs.json
 eb7e3308c58a184059e43924bbe13fc53facdcf7 data\minecraft\tags\block\fences.json
