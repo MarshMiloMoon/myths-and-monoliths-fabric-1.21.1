@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "mythsmonoliths:waxed_oxidized_beaten_copper"
+  },
+  "result": {
+    "count": 2,
+    "id": "mythsmonoliths:waxed_oxidized_beaten_copper_slab"
+  }
+}
