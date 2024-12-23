@@ -4,6 +4,7 @@ import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroups;
 import net.minecraft.item.Items;
+import net.minecraft.item.WindChargeItem;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
@@ -21,7 +22,7 @@ public class ModItems
 
     public static Item BOULDER_ROD = registerItem("boulder_rod", new Item(new Item.Settings()));
     public static Item BOULDER_GRAIN = registerItem("boulder_grain", new Item(new Item.Settings()));
-    public static Item EARTH_CHARGE = registerItem("earth_charge", new Item(new Item.Settings()));
+    public static Item EARTH_CHARGE = registerItem("earth_charge", new WindChargeItem(new Item.Settings()));
 
     public static Item GAUNTLET = registerItem("gauntlet", new Item(new Item.Settings()));
     public static Item ANCHOR = registerItem("anchor", new Item(new Item.Settings()));
