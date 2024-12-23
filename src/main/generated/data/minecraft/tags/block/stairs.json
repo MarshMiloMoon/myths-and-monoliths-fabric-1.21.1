@@ -1,8 +1,10 @@
 {
   "values": [
     "mythsmonoliths:calcite_stairs",
+    "mythsmonoliths:polished_calcite_stairs",
     "mythsmonoliths:calcite_brick_stairs",
     "mythsmonoliths:smooth_basalt_stairs",
+    "mythsmonoliths:polished_smooth_basalt_stairs",
     "mythsmonoliths:basalt_brick_stairs",
     "mythsmonoliths:smooth_nether_brick_stairs",
     "mythsmonoliths:smooth_red_nether_brick_stairs"

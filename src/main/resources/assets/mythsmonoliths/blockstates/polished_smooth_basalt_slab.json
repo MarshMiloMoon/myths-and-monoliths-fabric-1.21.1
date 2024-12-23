@@ -4,7 +4,7 @@
       "model": "mythsmonoliths:block/polished_smooth_basalt_slab"
     },
     "type=double": {
-      "model": "minecraft:block/polished_smooth_basalt"
+      "model": "mythsmonoliths:block/polished_smooth_basalt"
     },
     "type=top": {
       "model": "mythsmonoliths:block/polished_smooth_basalt_slab_top"

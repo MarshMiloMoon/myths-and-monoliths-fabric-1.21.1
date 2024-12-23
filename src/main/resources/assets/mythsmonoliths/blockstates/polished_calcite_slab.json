@@ -4,10 +4,10 @@
       "model": "mythsmonoliths:block/polished_calcite_slab"
     },
     "type=double": {
-      "model": "minecraft:block/polished_calcite"
+      "model": "mythsmonoliths:block/polished_calcite"
     },
     "type=top": {
-      "model": "mythsmonoliths:block/polished_000000000000000000000000000000000000000000000calcite_slab_top"
+      "model": "mythsmonoliths:block/polished_calcite_slab_top"
     }
   }
 }

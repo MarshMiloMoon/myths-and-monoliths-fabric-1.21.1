@@ -106,8 +106,10 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
 
         getOrCreateTagBuilder(BlockTags.SLABS)
                 .add(ModBlocks.CALCITE_SLAB)
+                .add(ModBlocks.POLISHED_CALCITE_SLAB)
                 .add(ModBlocks.CALCITE_BRICK_SLAB)
                 .add(ModBlocks.SMOOTH_BASALT_SLAB)
+                .add(ModBlocks.POLISHED_SMOOTH_BASALT_SLAB)
                 .add(ModBlocks.BASALT_BRICK_SLAB)
                 .add(ModBlocks.SMOOTH_NETHER_BRICK_SLAB)
                 .add(ModBlocks.SMOOTH_RED_NETHER_BRICK_SLAB)
@@ -122,16 +124,20 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
 
         getOrCreateTagBuilder(BlockTags.STAIRS)
                 .add(ModBlocks.CALCITE_STAIRS)
+                .add(ModBlocks.POLISHED_CALCITE_STAIRS)
                 .add(ModBlocks.CALCITE_BRICK_STAIRS)
                 .add(ModBlocks.SMOOTH_BASALT_STAIRS)
+                .add(ModBlocks.POLISHED_SMOOTH_BASALT_STAIRS)
                 .add(ModBlocks.BASALT_BRICK_STAIRS)
                 .add(ModBlocks.SMOOTH_NETHER_BRICK_STAIRS)
                 .add(ModBlocks.SMOOTH_RED_NETHER_BRICK_STAIRS);
 
         getOrCreateTagBuilder(BlockTags.WALLS)
                 .add(ModBlocks.CALCITE_WALL)
+                .add(ModBlocks.POLISHED_CALCITE_WALL)
                 .add(ModBlocks.CALCITE_BRICK_WALL)
                 .add(ModBlocks.SMOOTH_BASALT_WALL)
+                .add(ModBlocks.POLISHED_SMOOTH_BASALT_WALL)
                 .add(ModBlocks.BASALT_BRICK_WALL)
                 .add(ModBlocks.SMOOTH_NETHER_BRICK_WALL)
                 .add(ModBlocks.SMOOTH_RED_NETHER_BRICK_WALL);

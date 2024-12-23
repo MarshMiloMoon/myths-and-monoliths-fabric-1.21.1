@@ -1,8 +1,10 @@
 {
   "values": [
     "mythsmonoliths:calcite_slab",
+    "mythsmonoliths:polished_calcite_slab",
     "mythsmonoliths:calcite_brick_slab",
     "mythsmonoliths:smooth_basalt_slab",
+    "mythsmonoliths:polished_smooth_basalt_slab",
     "mythsmonoliths:basalt_brick_slab",
     "mythsmonoliths:smooth_nether_brick_slab",
     "mythsmonoliths:smooth_red_nether_brick_slab",

@@ -161,6 +161,9 @@ public class ModBlocks
             entries.add(CALCITE_STAIRS);
             entries.add(CALCITE_WALL);
             entries.add(POLISHED_CALCITE);
+            entries.add(POLISHED_CALCITE_SLAB);
+            entries.add(POLISHED_CALCITE_STAIRS);
+            entries.add(POLISHED_CALCITE_WALL);
             entries.add(CALCITE_BRICKS);
             entries.add(CALCITE_BRICK_SLAB);
             entries.add(CALCITE_BRICK_STAIRS);
@@ -171,6 +174,9 @@ public class ModBlocks
             entries.add(SMOOTH_BASALT_STAIRS);
             entries.add(SMOOTH_BASALT_WALL);
             entries.add(POLISHED_SMOOTH_BASALT);
+            entries.add(POLISHED_SMOOTH_BASALT_SLAB);
+            entries.add(POLISHED_SMOOTH_BASALT_STAIRS);
+            entries.add(POLISHED_SMOOTH_BASALT_WALL);
             entries.add(BASALT_BRICKS);
             entries.add(BASALT_BRICK_SLAB);
             entries.add(BASALT_BRICK_STAIRS);
