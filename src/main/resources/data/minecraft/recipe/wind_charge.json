@@ -4,6 +4,9 @@
   "ingredients": [
     {
       "item": "mythsmonoliths:breeze_dust"
+    },
+    {
+      "item": "minecraft:feather"
     }
   ],
   "result": {

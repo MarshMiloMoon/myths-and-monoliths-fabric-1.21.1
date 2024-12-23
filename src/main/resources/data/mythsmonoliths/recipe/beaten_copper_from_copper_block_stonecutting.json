@@ -1,10 +1,10 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": {
-    "item": "minecraft:waxed_copper"
+    "item": "minecraft:copper_block"
   },
   "result": {
     "count": 1,
-    "id": "mythsmonoliths:waxed_beaten_copper"
+    "id": "mythsmonoliths:beaten_copper"
   }
 }
